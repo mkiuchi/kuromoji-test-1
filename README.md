@@ -1,1 +1,3 @@
-# kuromoji-test-1
+# kuromoji-test(Lucene ver)
+
+
